@@ -1,0 +1,784 @@
+Scheduling: FCFS
+==================================
+<time 0> [new arrival] process 2
+<time 0> process 2 is running
+<time 1> process 2 is running
+<time 2> process 2 is running
+<time 3> process 2 is running
+<time 4> process 2 is running
+<time 5> process 2 is running
+<time 6> process 2 is running
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+<time 8> process 2 is running
+<time 9> process 2 is running
+<time 10> [new arrival] process 1
+<time 10> process 2 is running
+<time 11> process 2 is running
+<time 12> process 2 is running
+<time 13> process 2 is running
+<time 14> process 2 is running
+<time 15> process 2 is running
+<time 16> process 2 is running
+<time 17> process 2 is running
+<time 18> process 2 is running
+<time 19> process 2 is running
+<time 20> [new arrival] process 3
+<time 20> process 2 is running
+<time 21> process 2 is running
+<time 22> process 2 is running
+<time 23> process 2 is running
+<time 24> process 2 is running
+<time 25> process 2 is running
+<time 26> process 2 is running
+<time 27> process 2 is running
+<time 28> process 2 is running
+<time 29> process 2 is running
+<time 30> process 2 is running
+<time 31> process 2 is running
+<time 32> process 2 is running
+<time 33> process 2 is running
+<time 34> process 2 is running
+<time 35> process 2 is running
+<time 36> process 2 is running
+<time 37> process 2 is running
+<time 38> process 2 is running
+<time 39> process 2 is running
+<time 40> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 40> process 5 is running
+<time 41> process 5 is running
+<time 42> process 5 is running
+<time 43> process 5 is running
+<time 44> process 5 is running
+<time 45> process 5 is running
+<time 46> process 5 is running
+<time 47> process 5 is running
+<time 48> process 5 is running
+<time 49> process 5 is running
+<time 50> process 5 is running
+<time 51> process 5 is running
+<time 52> process 5 is running
+<time 53> process 5 is running
+<time 54> process 5 is running
+<time 55> process 5 is running
+<time 56> process 5 is running
+<time 57> process 5 is running
+<time 58> process 5 is running
+<time 59> process 5 is running
+<time 60> process 5 is running
+<time 61> process 5 is running
+<time 62> process 5 is running
+<time 63> process 5 is running
+<time 64> process 5 is running
+<time 65> process 5 is running
+<time 66> process 5 is running
+<time 67> process 5 is running
+<time 68> process 5 is running
+<time 69> process 5 is running
+<time 70> process 5 is running
+<time 71> process 5 is running
+<time 72> process 5 is running
+<time 73> process 5 is running
+<time 74> process 5 is running
+<time 75> process 5 is finished
+-------------------------------- (Context-Switch)
+<time 75> process 1 is running
+<time 76> process 1 is running
+<time 77> process 1 is running
+<time 78> process 1 is running
+<time 79> process 1 is running
+<time 80> process 1 is running
+<time 81> process 1 is running
+<time 82> process 1 is running
+<time 83> process 1 is running
+<time 84> process 1 is running
+<time 85> process 1 is running
+<time 86> process 1 is running
+<time 87> process 1 is running
+<time 88> process 1 is running
+<time 89> process 1 is running
+<time 90> process 1 is running
+<time 91> process 1 is running
+<time 92> process 1 is running
+<time 93> process 1 is running
+<time 94> process 1 is running
+<time 95> process 1 is running
+<time 96> process 1 is running
+<time 97> process 1 is running
+<time 98> process 1 is running
+<time 99> process 1 is running
+<time 100> process 1 is running
+<time 101> process 1 is running
+<time 102> process 1 is running
+<time 103> process 1 is running
+<time 104> process 1 is running
+<time 105> process 1 is running
+<time 106> process 1 is running
+<time 107> process 1 is running
+<time 108> process 1 is running
+<time 109> process 1 is running
+<time 110> process 1 is running
+<time 111> process 1 is running
+<time 112> process 1 is running
+<time 113> process 1 is running
+<time 114> process 1 is running
+<time 115> process 1 is running
+<time 116> process 1 is running
+<time 117> process 1 is running
+<time 118> process 1 is running
+<time 119> process 1 is running
+<time 120> process 1 is running
+<time 121> process 1 is running
+<time 122> process 1 is running
+<time 123> process 1 is running
+<time 124> process 1 is running
+<time 125> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 125> process 3 is running
+<time 126> process 3 is running
+<time 127> process 3 is running
+<time 128> process 3 is running
+<time 129> process 3 is running
+<time 130> process 3 is running
+<time 131> process 3 is running
+<time 132> process 3 is running
+<time 133> process 3 is running
+<time 134> process 3 is running
+<time 135> process 3 is running
+<time 136> process 3 is running
+<time 137> process 3 is running
+<time 138> process 3 is running
+<time 139> process 3 is running
+<time 140> process 3 is running
+<time 141> process 3 is running
+<time 142> process 3 is running
+<time 143> process 3 is running
+<time 144> process 3 is running
+<time 145> process 3 is running
+<time 146> process 3 is running
+<time 147> process 3 is running
+<time 148> process 3 is running
+<time 149> process 3 is running
+<time 150> process 3 is running
+<time 151> process 3 is running
+<time 152> process 3 is running
+<time 153> process 3 is running
+<time 154> process 3 is running
+<time 155> process 3 is running
+<time 156> process 3 is running
+<time 157> process 3 is running
+<time 158> process 3 is running
+<time 159> process 3 is running
+<time 160> process 3 is running
+<time 161> process 3 is running
+<time 162> process 3 is running
+<time 163> process 3 is running
+<time 164> process 3 is running
+<time 165> process 3 is running
+<time 166> process 3 is running
+<time 167> process 3 is running
+<time 168> process 3 is running
+<time 169> process 3 is running
+<time 170> process 3 is running
+<time 171> process 3 is running
+<time 172> process 3 is running
+<time 173> process 3 is running
+<time 174> process 3 is running
+<time 175> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 50.75
+Average response time   : 50.75
+Average turnaround time : 94.50
+
+Scheduling: RR
+==================================
+<time 0> [new arrival] process 2
+<time 0> process 2 is running
+<time 1> process 2 is running
+<time 2> process 2 is running
+<time 3> process 2 is running
+<time 4> process 2 is running
+------------------------------ (Context-Switch)
+<time 5> process 2 is running
+<time 6> process 2 is running
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+<time 8> process 2 is running
+<time 9> process 2 is running
+------------------------------ (Context-Switch)
+<time 10> [new arrival] process 1
+<time 10> process 5 is running
+<time 11> process 5 is running
+<time 12> process 5 is running
+<time 13> process 5 is running
+<time 14> process 5 is running
+------------------------------ (Context-Switch)
+<time 15> process 2 is running
+<time 16> process 2 is running
+<time 17> process 2 is running
+<time 18> process 2 is running
+<time 19> process 2 is running
+------------------------------ (Context-Switch)
+<time 20> [new arrival] process 3
+<time 20> process 1 is running
+<time 21> process 1 is running
+<time 22> process 1 is running
+<time 23> process 1 is running
+<time 24> process 1 is running
+------------------------------ (Context-Switch)
+<time 25> process 5 is running
+<time 26> process 5 is running
+<time 27> process 5 is running
+<time 28> process 5 is running
+<time 29> process 5 is running
+------------------------------ (Context-Switch)
+<time 30> process 2 is running
+<time 31> process 2 is running
+<time 32> process 2 is running
+<time 33> process 2 is running
+<time 34> process 2 is running
+------------------------------ (Context-Switch)
+<time 35> process 3 is running
+<time 36> process 3 is running
+<time 37> process 3 is running
+<time 38> process 3 is running
+<time 39> process 3 is running
+------------------------------ (Context-Switch)
+<time 40> process 1 is running
+<time 41> process 1 is running
+<time 42> process 1 is running
+<time 43> process 1 is running
+<time 44> process 1 is running
+------------------------------ (Context-Switch)
+<time 45> process 5 is running
+<time 46> process 5 is running
+<time 47> process 5 is running
+<time 48> process 5 is running
+<time 49> process 5 is running
+------------------------------ (Context-Switch)
+<time 50> process 2 is running
+<time 51> process 2 is running
+<time 52> process 2 is running
+<time 53> process 2 is running
+<time 54> process 2 is running
+------------------------------ (Context-Switch)
+<time 55> process 3 is running
+<time 56> process 3 is running
+<time 57> process 3 is running
+<time 58> process 3 is running
+<time 59> process 3 is running
+------------------------------ (Context-Switch)
+<time 60> process 1 is running
+<time 61> process 1 is running
+<time 62> process 1 is running
+<time 63> process 1 is running
+<time 64> process 1 is running
+------------------------------ (Context-Switch)
+<time 65> process 5 is running
+<time 66> process 5 is running
+<time 67> process 5 is running
+<time 68> process 5 is running
+<time 69> process 5 is running
+------------------------------ (Context-Switch)
+<time 70> process 2 is running
+<time 71> process 2 is running
+<time 72> process 2 is running
+<time 73> process 2 is running
+<time 74> process 2 is running
+------------------------------ (Context-Switch)
+<time 75> process 3 is running
+<time 76> process 3 is running
+<time 77> process 3 is running
+<time 78> process 3 is running
+<time 79> process 3 is running
+------------------------------ (Context-Switch)
+<time 80> process 1 is running
+<time 81> process 1 is running
+<time 82> process 1 is running
+<time 83> process 1 is running
+<time 84> process 1 is running
+------------------------------ (Context-Switch)
+<time 85> process 5 is running
+<time 86> process 5 is running
+<time 87> process 5 is running
+<time 88> process 5 is running
+<time 89> process 5 is running
+------------------------------ (Context-Switch)
+<time 90> process 2 is running
+<time 91> process 2 is running
+<time 92> process 2 is running
+<time 93> process 2 is running
+<time 94> process 2 is running
+------------------------------ (Context-Switch)
+<time 95> process 3 is running
+<time 96> process 3 is running
+<time 97> process 3 is running
+<time 98> process 3 is running
+<time 99> process 3 is running
+------------------------------ (Context-Switch)
+<time 100> process 1 is running
+<time 101> process 1 is running
+<time 102> process 1 is running
+<time 103> process 1 is running
+<time 104> process 1 is running
+------------------------------ (Context-Switch)
+<time 105> process 5 is running
+<time 106> process 5 is running
+<time 107> process 5 is running
+<time 108> process 5 is running
+<time 109> process 5 is running
+------------------------------ (Context-Switch)
+<time 110> process 2 is running
+<time 111> process 2 is running
+<time 112> process 2 is running
+<time 113> process 2 is running
+<time 114> process 2 is running
+<time 115> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 115> process 3 is running
+<time 116> process 3 is running
+<time 117> process 3 is running
+<time 118> process 3 is running
+<time 119> process 3 is running
+------------------------------ (Context-Switch)
+<time 120> process 1 is running
+<time 121> process 1 is running
+<time 122> process 1 is running
+<time 123> process 1 is running
+<time 124> process 1 is running
+------------------------------ (Context-Switch)
+<time 125> process 5 is running
+<time 126> process 5 is running
+<time 127> process 5 is running
+<time 128> process 5 is running
+<time 129> process 5 is running
+<time 130> process 5 is finished
+-------------------------------- (Context-Switch)
+<time 130> process 3 is running
+<time 131> process 3 is running
+<time 132> process 3 is running
+<time 133> process 3 is running
+<time 134> process 3 is running
+------------------------------ (Context-Switch)
+<time 135> process 1 is running
+<time 136> process 1 is running
+<time 137> process 1 is running
+<time 138> process 1 is running
+<time 139> process 1 is running
+------------------------------ (Context-Switch)
+<time 140> process 3 is running
+<time 141> process 3 is running
+<time 142> process 3 is running
+<time 143> process 3 is running
+<time 144> process 3 is running
+------------------------------ (Context-Switch)
+<time 145> process 1 is running
+<time 146> process 1 is running
+<time 147> process 1 is running
+<time 148> process 1 is running
+<time 149> process 1 is running
+------------------------------ (Context-Switch)
+<time 150> process 3 is running
+<time 151> process 3 is running
+<time 152> process 3 is running
+<time 153> process 3 is running
+<time 154> process 3 is running
+------------------------------ (Context-Switch)
+<time 155> process 1 is running
+<time 156> process 1 is running
+<time 157> process 1 is running
+<time 158> process 1 is running
+<time 159> process 1 is running
+------------------------------ (Context-Switch)
+<time 160> process 3 is running
+<time 161> process 3 is running
+<time 162> process 3 is running
+<time 163> process 3 is running
+<time 164> process 3 is running
+------------------------------ (Context-Switch)
+<time 165> process 1 is running
+<time 166> process 1 is running
+<time 167> process 1 is running
+<time 168> process 1 is running
+<time 169> process 1 is running
+<time 170> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 170> process 3 is running
+<time 171> process 3 is running
+<time 172> process 3 is running
+<time 173> process 3 is running
+<time 174> process 3 is running
+<time 175> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 94.50
+Average response time   : 7.00
+Average turnaround time : 138.25
+
+Scheduling: Preemptive Priority
+==================================
+<time 0> [new arrival] process 2
+<time 0> process 2 is running
+------------------------------ (Context-Switch)
+<time 1> process 2 is running
+------------------------------ (Context-Switch)
+<time 2> process 2 is running
+------------------------------ (Context-Switch)
+<time 3> process 2 is running
+------------------------------ (Context-Switch)
+<time 4> process 2 is running
+------------------------------ (Context-Switch)
+<time 5> process 2 is running
+------------------------------ (Context-Switch)
+<time 6> process 2 is running
+------------------------------ (Context-Switch)
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+------------------------------ (Context-Switch)
+<time 8> process 2 is running
+------------------------------ (Context-Switch)
+<time 9> process 2 is running
+------------------------------ (Context-Switch)
+<time 10> [new arrival] process 1
+<time 10> process 2 is running
+------------------------------ (Context-Switch)
+<time 11> process 2 is running
+------------------------------ (Context-Switch)
+<time 12> process 2 is running
+------------------------------ (Context-Switch)
+<time 13> process 2 is running
+------------------------------ (Context-Switch)
+<time 14> process 2 is running
+------------------------------ (Context-Switch)
+<time 15> process 2 is running
+------------------------------ (Context-Switch)
+<time 16> process 2 is running
+------------------------------ (Context-Switch)
+<time 17> process 2 is running
+------------------------------ (Context-Switch)
+<time 18> process 2 is running
+------------------------------ (Context-Switch)
+<time 19> process 2 is running
+------------------------------ (Context-Switch)
+<time 20> [new arrival] process 3
+<time 20> process 2 is running
+------------------------------ (Context-Switch)
+<time 21> process 2 is running
+------------------------------ (Context-Switch)
+<time 22> process 2 is running
+------------------------------ (Context-Switch)
+<time 23> process 2 is running
+------------------------------ (Context-Switch)
+<time 24> process 2 is running
+------------------------------ (Context-Switch)
+<time 25> process 2 is running
+------------------------------ (Context-Switch)
+<time 26> process 2 is running
+------------------------------ (Context-Switch)
+<time 27> process 2 is running
+------------------------------ (Context-Switch)
+<time 28> process 2 is running
+------------------------------ (Context-Switch)
+<time 29> process 2 is running
+------------------------------ (Context-Switch)
+<time 30> process 2 is running
+------------------------------ (Context-Switch)
+<time 31> process 2 is running
+------------------------------ (Context-Switch)
+<time 32> process 2 is running
+------------------------------ (Context-Switch)
+<time 33> process 2 is running
+------------------------------ (Context-Switch)
+<time 34> process 2 is running
+------------------------------ (Context-Switch)
+<time 35> process 2 is running
+------------------------------ (Context-Switch)
+<time 36> process 2 is running
+------------------------------ (Context-Switch)
+<time 37> process 2 is running
+------------------------------ (Context-Switch)
+<time 38> process 2 is running
+------------------------------ (Context-Switch)
+<time 39> process 2 is running
+<time 40> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 40> process 1 is running
+------------------------------ (Context-Switch)
+<time 41> process 1 is running
+------------------------------ (Context-Switch)
+<time 42> process 1 is running
+------------------------------ (Context-Switch)
+<time 43> process 1 is running
+------------------------------ (Context-Switch)
+<time 44> process 1 is running
+------------------------------ (Context-Switch)
+<time 45> process 1 is running
+------------------------------ (Context-Switch)
+<time 46> process 1 is running
+------------------------------ (Context-Switch)
+<time 47> process 1 is running
+------------------------------ (Context-Switch)
+<time 48> process 1 is running
+------------------------------ (Context-Switch)
+<time 49> process 1 is running
+------------------------------ (Context-Switch)
+<time 50> process 1 is running
+------------------------------ (Context-Switch)
+<time 51> process 1 is running
+------------------------------ (Context-Switch)
+<time 52> process 1 is running
+------------------------------ (Context-Switch)
+<time 53> process 1 is running
+------------------------------ (Context-Switch)
+<time 54> process 1 is running
+------------------------------ (Context-Switch)
+<time 55> process 1 is running
+------------------------------ (Context-Switch)
+<time 56> process 1 is running
+------------------------------ (Context-Switch)
+<time 57> process 1 is running
+------------------------------ (Context-Switch)
+<time 58> process 1 is running
+------------------------------ (Context-Switch)
+<time 59> process 1 is running
+------------------------------ (Context-Switch)
+<time 60> process 1 is running
+------------------------------ (Context-Switch)
+<time 61> process 1 is running
+------------------------------ (Context-Switch)
+<time 62> process 1 is running
+------------------------------ (Context-Switch)
+<time 63> process 1 is running
+------------------------------ (Context-Switch)
+<time 64> process 1 is running
+------------------------------ (Context-Switch)
+<time 65> process 1 is running
+------------------------------ (Context-Switch)
+<time 66> process 1 is running
+------------------------------ (Context-Switch)
+<time 67> process 1 is running
+------------------------------ (Context-Switch)
+<time 68> process 1 is running
+------------------------------ (Context-Switch)
+<time 69> process 1 is running
+------------------------------ (Context-Switch)
+<time 70> process 1 is running
+------------------------------ (Context-Switch)
+<time 71> process 1 is running
+------------------------------ (Context-Switch)
+<time 72> process 1 is running
+------------------------------ (Context-Switch)
+<time 73> process 1 is running
+------------------------------ (Context-Switch)
+<time 74> process 1 is running
+------------------------------ (Context-Switch)
+<time 75> process 1 is running
+------------------------------ (Context-Switch)
+<time 76> process 1 is running
+------------------------------ (Context-Switch)
+<time 77> process 1 is running
+------------------------------ (Context-Switch)
+<time 78> process 1 is running
+------------------------------ (Context-Switch)
+<time 79> process 1 is running
+------------------------------ (Context-Switch)
+<time 80> process 1 is running
+------------------------------ (Context-Switch)
+<time 81> process 1 is running
+------------------------------ (Context-Switch)
+<time 82> process 1 is running
+------------------------------ (Context-Switch)
+<time 83> process 1 is running
+------------------------------ (Context-Switch)
+<time 84> process 1 is running
+------------------------------ (Context-Switch)
+<time 85> process 1 is running
+------------------------------ (Context-Switch)
+<time 86> process 1 is running
+------------------------------ (Context-Switch)
+<time 87> process 1 is running
+------------------------------ (Context-Switch)
+<time 88> process 1 is running
+------------------------------ (Context-Switch)
+<time 89> process 1 is running
+<time 90> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 90> process 3 is running
+------------------------------ (Context-Switch)
+<time 91> process 3 is running
+------------------------------ (Context-Switch)
+<time 92> process 3 is running
+------------------------------ (Context-Switch)
+<time 93> process 3 is running
+------------------------------ (Context-Switch)
+<time 94> process 3 is running
+------------------------------ (Context-Switch)
+<time 95> process 3 is running
+------------------------------ (Context-Switch)
+<time 96> process 3 is running
+------------------------------ (Context-Switch)
+<time 97> process 3 is running
+------------------------------ (Context-Switch)
+<time 98> process 3 is running
+------------------------------ (Context-Switch)
+<time 99> process 3 is running
+------------------------------ (Context-Switch)
+<time 100> process 3 is running
+------------------------------ (Context-Switch)
+<time 101> process 3 is running
+------------------------------ (Context-Switch)
+<time 102> process 3 is running
+------------------------------ (Context-Switch)
+<time 103> process 3 is running
+------------------------------ (Context-Switch)
+<time 104> process 3 is running
+------------------------------ (Context-Switch)
+<time 105> process 3 is running
+------------------------------ (Context-Switch)
+<time 106> process 3 is running
+------------------------------ (Context-Switch)
+<time 107> process 3 is running
+------------------------------ (Context-Switch)
+<time 108> process 3 is running
+------------------------------ (Context-Switch)
+<time 109> process 3 is running
+------------------------------ (Context-Switch)
+<time 110> process 3 is running
+------------------------------ (Context-Switch)
+<time 111> process 3 is running
+------------------------------ (Context-Switch)
+<time 112> process 3 is running
+------------------------------ (Context-Switch)
+<time 113> process 3 is running
+------------------------------ (Context-Switch)
+<time 114> process 3 is running
+------------------------------ (Context-Switch)
+<time 115> process 3 is running
+------------------------------ (Context-Switch)
+<time 116> process 3 is running
+------------------------------ (Context-Switch)
+<time 117> process 3 is running
+------------------------------ (Context-Switch)
+<time 118> process 3 is running
+------------------------------ (Context-Switch)
+<time 119> process 3 is running
+------------------------------ (Context-Switch)
+<time 120> process 3 is running
+------------------------------ (Context-Switch)
+<time 121> process 3 is running
+------------------------------ (Context-Switch)
+<time 122> process 3 is running
+------------------------------ (Context-Switch)
+<time 123> process 3 is running
+------------------------------ (Context-Switch)
+<time 124> process 3 is running
+------------------------------ (Context-Switch)
+<time 125> process 3 is running
+------------------------------ (Context-Switch)
+<time 126> process 3 is running
+------------------------------ (Context-Switch)
+<time 127> process 3 is running
+------------------------------ (Context-Switch)
+<time 128> process 3 is running
+------------------------------ (Context-Switch)
+<time 129> process 3 is running
+------------------------------ (Context-Switch)
+<time 130> process 3 is running
+------------------------------ (Context-Switch)
+<time 131> process 3 is running
+------------------------------ (Context-Switch)
+<time 132> process 3 is running
+------------------------------ (Context-Switch)
+<time 133> process 3 is running
+------------------------------ (Context-Switch)
+<time 134> process 3 is running
+------------------------------ (Context-Switch)
+<time 135> process 3 is running
+------------------------------ (Context-Switch)
+<time 136> process 3 is running
+------------------------------ (Context-Switch)
+<time 137> process 3 is running
+------------------------------ (Context-Switch)
+<time 138> process 3 is running
+------------------------------ (Context-Switch)
+<time 139> process 3 is running
+<time 140> process 3 is finished
+-------------------------------- (Context-Switch)
+<time 140> process 5 is running
+------------------------------ (Context-Switch)
+<time 141> process 5 is running
+------------------------------ (Context-Switch)
+<time 142> process 5 is running
+------------------------------ (Context-Switch)
+<time 143> process 5 is running
+------------------------------ (Context-Switch)
+<time 144> process 5 is running
+------------------------------ (Context-Switch)
+<time 145> process 5 is running
+------------------------------ (Context-Switch)
+<time 146> process 5 is running
+------------------------------ (Context-Switch)
+<time 147> process 5 is running
+------------------------------ (Context-Switch)
+<time 148> process 5 is running
+------------------------------ (Context-Switch)
+<time 149> process 5 is running
+------------------------------ (Context-Switch)
+<time 150> process 5 is running
+------------------------------ (Context-Switch)
+<time 151> process 5 is running
+------------------------------ (Context-Switch)
+<time 152> process 5 is running
+------------------------------ (Context-Switch)
+<time 153> process 5 is running
+------------------------------ (Context-Switch)
+<time 154> process 5 is running
+------------------------------ (Context-Switch)
+<time 155> process 5 is running
+------------------------------ (Context-Switch)
+<time 156> process 5 is running
+------------------------------ (Context-Switch)
+<time 157> process 5 is running
+------------------------------ (Context-Switch)
+<time 158> process 5 is running
+------------------------------ (Context-Switch)
+<time 159> process 5 is running
+------------------------------ (Context-Switch)
+<time 160> process 5 is running
+------------------------------ (Context-Switch)
+<time 161> process 5 is running
+------------------------------ (Context-Switch)
+<time 162> process 5 is running
+------------------------------ (Context-Switch)
+<time 163> process 5 is running
+------------------------------ (Context-Switch)
+<time 164> process 5 is running
+------------------------------ (Context-Switch)
+<time 165> process 5 is running
+------------------------------ (Context-Switch)
+<time 166> process 5 is running
+------------------------------ (Context-Switch)
+<time 167> process 5 is running
+------------------------------ (Context-Switch)
+<time 168> process 5 is running
+------------------------------ (Context-Switch)
+<time 169> process 5 is running
+------------------------------ (Context-Switch)
+<time 170> process 5 is running
+------------------------------ (Context-Switch)
+<time 171> process 5 is running
+------------------------------ (Context-Switch)
+<time 172> process 5 is running
+------------------------------ (Context-Switch)
+<time 173> process 5 is running
+------------------------------ (Context-Switch)
+<time 174> process 5 is running
+<time 175> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 58.25
+Average response time   : 58.25
+Average turnaround time : 102.00
+

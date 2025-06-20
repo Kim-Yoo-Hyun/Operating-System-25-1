@@ -1,0 +1,147 @@
+Scheduling: FCFS
+==================================
+<time 0> [new arrival] process 1
+<time 0> process 1 is running
+<time 1> [new arrival] process 2
+<time 1> [new arrival] process 3
+<time 1> process 1 is running
+<time 2> process 1 is running
+<time 3> process 1 is running
+<time 4> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 4> process 2 is running
+<time 5> [new arrival] process 4
+<time 5> process 2 is running
+<time 6> process 2 is running
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+<time 8> process 2 is running
+<time 9> process 2 is running
+<time 10> process 2 is running
+<time 11> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 11> process 3 is running
+<time 12> process 3 is running
+<time 13> process 3 is running
+<time 14> process 3 is finished
+-------------------------------- (Context-Switch)
+<time 14> process 4 is running
+<time 15> process 4 is running
+<time 16> process 4 is running
+<time 17> process 4 is running
+<time 18> process 4 is running
+<time 19> process 4 is finished
+-------------------------------- (Context-Switch)
+<time 19> process 5 is running
+<time 20> process 5 is running
+<time 21> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 6.80
+Average response time   : 6.80
+Average turnaround time : 11.00
+
+Scheduling: RR
+==================================
+<time 0> [new arrival] process 1
+<time 0> process 1 is running
+<time 1> [new arrival] process 2
+<time 1> [new arrival] process 3
+<time 1> process 1 is running
+<time 2> process 1 is running
+<time 3> process 1 is running
+<time 4> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 4> process 2 is running
+<time 5> [new arrival] process 4
+<time 5> process 2 is running
+<time 6> process 2 is running
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+------------------------------ (Context-Switch)
+<time 8> process 3 is running
+<time 9> process 3 is running
+<time 10> process 3 is running
+<time 11> process 3 is finished
+-------------------------------- (Context-Switch)
+<time 11> process 4 is running
+<time 12> process 4 is running
+<time 13> process 4 is running
+<time 14> process 4 is running
+------------------------------ (Context-Switch)
+<time 15> process 5 is running
+<time 16> process 5 is running
+<time 17> process 5 is finished
+-------------------------------- (Context-Switch)
+<time 17> process 2 is running
+<time 18> process 2 is running
+<time 19> process 2 is running
+<time 20> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 20> process 4 is running
+<time 21> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 7.60
+Average response time   : 4.80
+Average turnaround time : 11.80
+
+Scheduling: Preemptive Priority
+==================================
+<time 0> [new arrival] process 1
+<time 0> process 1 is running
+------------------------------ (Context-Switch)
+<time 1> [new arrival] process 2
+<time 1> [new arrival] process 3
+<time 1> process 1 is running
+------------------------------ (Context-Switch)
+<time 2> process 1 is running
+------------------------------ (Context-Switch)
+<time 3> process 1 is running
+<time 4> process 1 is finished
+-------------------------------- (Context-Switch)
+<time 4> process 2 is running
+------------------------------ (Context-Switch)
+<time 5> [new arrival] process 4
+<time 5> process 2 is running
+------------------------------ (Context-Switch)
+<time 6> process 2 is running
+------------------------------ (Context-Switch)
+<time 7> [new arrival] process 5
+<time 7> process 2 is running
+------------------------------ (Context-Switch)
+<time 8> process 2 is running
+------------------------------ (Context-Switch)
+<time 9> process 2 is running
+------------------------------ (Context-Switch)
+<time 10> process 2 is running
+<time 11> process 2 is finished
+-------------------------------- (Context-Switch)
+<time 11> process 3 is running
+------------------------------ (Context-Switch)
+<time 12> process 3 is running
+------------------------------ (Context-Switch)
+<time 13> process 3 is running
+<time 14> process 3 is finished
+-------------------------------- (Context-Switch)
+<time 14> process 5 is running
+------------------------------ (Context-Switch)
+<time 15> process 5 is running
+<time 16> process 5 is finished
+-------------------------------- (Context-Switch)
+<time 16> process 4 is running
+------------------------------ (Context-Switch)
+<time 17> process 4 is running
+------------------------------ (Context-Switch)
+<time 18> process 4 is running
+------------------------------ (Context-Switch)
+<time 19> process 4 is running
+------------------------------ (Context-Switch)
+<time 20> process 4 is running
+<time 21> all processes finish
+===================================
+Average cpu usage       : 100.00 %
+Average waiting time    : 6.20
+Average response time   : 6.20
+Average turnaround time : 10.40
+
